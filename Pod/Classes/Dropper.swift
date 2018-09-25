@@ -9,7 +9,7 @@
 import UIKit
 
 open class Dropper: UIView {
-    open let TableMenu: UITableView = UITableView()
+    public let TableMenu: UITableView = UITableView()
     /**
     Alignment of the dropdown menu compared to the button
     
